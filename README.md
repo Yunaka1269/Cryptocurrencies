@@ -9,10 +9,13 @@
 
 ### Result
 - 3D graph
+
 ![alt text](https://github.com/Yunaka1269/Cryptocurrencies/blob/main/3D_graph.PNG "3D")
 
 - Scatter graph
+
 ![alt text](https://github.com/Yunaka1269/Cryptocurrencies/blob/main/Scatter.PNG "Scatter")
 
 - Table
+
 ![alt text](https://github.com/Yunaka1269/Cryptocurrencies/blob/main/Table.PNG "Table")
